@@ -3,6 +3,15 @@
 
 <channels>
 <channel>
+<name>Adicionados Recentes</name>
+<thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/Ano</externallink>
+<fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
+<info>O Melhor Conteudo</info>
+</channel>
+
+<channels>
+<channel>
 <name>FILMES</name>
 <thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/Ano</externallink>
@@ -19,7 +28,6 @@
 <info>O Melhor Conteudo de Series</info>
 </channel>
 
-
 <channels>
 <channel>
 <name>DESENHOS</name>
@@ -28,7 +36,6 @@
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
 <info>O Melhor Conteudo de Desenhos</info>
 </channel>
-
 
 <channels>
 <channel>
