@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>1ª Temporada</name>
+<name>Saga Sayajins</name>
 <thumbnail>https://i.ibb.co/VY4d3bQ/2019-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/SERIES/T/TheVampireDiaries/1TEMPORADA/Episodios</externallink>
 <fanart>https://i.ibb.co/Ld2w0Fh/2019-BG.jpg</fanart>
@@ -12,7 +12,52 @@
 
 <channels>
 <channel>
-<name>2ª Temporada</name>
+<name>Saga de Freeza</name>
+<thumbnail>https://i.ibb.co/VY4d3bQ/2019-CAPA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/SERIES/T/TheVampireDiaries/1TEMPORADA/Episodios</externallink>
+<fanart>https://i.ibb.co/Ld2w0Fh/2019-BG.jpg</fanart>
+<info>Filmes do Ano 2019</info>
+</channel>
+
+<channels>
+<channel>
+<name>Saga Eu Sou o Filho de Goku</name>
+<thumbnail>https://i.ibb.co/VY4d3bQ/2019-CAPA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/SERIES/T/TheVampireDiaries/1TEMPORADA/Episodios</externallink>
+<fanart>https://i.ibb.co/Ld2w0Fh/2019-BG.jpg</fanart>
+<info>Filmes do Ano 2019</info>
+</channel>
+
+<channels>
+<channel>
+<name>Saga de Garlick Jr.</name>
+<thumbnail>https://i.ibb.co/VY4d3bQ/2019-CAPA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/SERIES/T/TheVampireDiaries/1TEMPORADA/Episodios</externallink>
+<fanart>https://i.ibb.co/Ld2w0Fh/2019-BG.jpg</fanart>
+<info>Filmes do Ano 2019</info>
+</channel>
+
+<channels>
+<channel>
+<name>Saga dos Androides</name>
+<thumbnail>https://i.ibb.co/VY4d3bQ/2019-CAPA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/SERIES/T/TheVampireDiaries/1TEMPORADA/Episodios</externallink>
+<fanart>https://i.ibb.co/Ld2w0Fh/2019-BG.jpg</fanart>
+<info>Filmes do Ano 2019</info>
+</channel>
+
+<channels>
+<channel>
+<name>Saga do Cell</name>
+<thumbnail>https://i.ibb.co/VY4d3bQ/2019-CAPA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/SERIES/T/TheVampireDiaries/1TEMPORADA/Episodios</externallink>
+<fanart>https://i.ibb.co/Ld2w0Fh/2019-BG.jpg</fanart>
+<info>Filmes do Ano 2019</info>
+</channel>
+
+<channels>
+<channel>
+<name>Saga do Majin Boo</name>
 <thumbnail>https://i.ibb.co/VY4d3bQ/2019-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/SERIES/T/TheVampireDiaries/1TEMPORADA/Episodios</externallink>
 <fanart>https://i.ibb.co/Ld2w0Fh/2019-BG.jpg</fanart>
