@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>Filmes do Ano 2019</name>
+<name>Filmes - 2019</name>
 <thumbnail>https://i.ibb.co/VY4d3bQ/2019-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/2019/TituloDosFilmes</externallink>
 <fanart>https://i.ibb.co/Ld2w0Fh/2019-BG.jpg</fanart>
@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>Filmes do Ano 2018</name>
+<name>Filmes - 2018</name>
 <thumbnail>https://i.ibb.co/xL6RPYr/2018-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/2018/TituloDosFilmes</externallink>
 <fanart>https://i.ibb.co/j8rY9mm/2018-BG.jpg</fanart>
@@ -19,7 +19,63 @@
 </channel>
 
 <channel>
-<name>Filmes do 2017</name>
+<name>Filmes - 2017</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Filmes - 2016</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Filmes - 2015</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Filmes - 2014</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Filmes - 2013</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Filmes - 2012</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Filmes - 2011</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Filmes - 2010</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
