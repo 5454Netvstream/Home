@@ -3,18 +3,18 @@
 
 <channels>
 <channel>
-<name>Adicionados Recentes</name>
+<name>NOVOS</name>
 <thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/AdicionadosRecentes/Novos</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
-<info>O Melhor Conteudo</info>
+<info>Conteudos Atualizado</info>
 </channel>
 
 <channels>
 <channel>
 <name>FILMES</name>
 <thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/Ano</externallink>
+<externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/AnoDosFilmes</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
 <info>O Melhor Conteudo de Filmes</info>
 </channel>
