@@ -13,7 +13,7 @@
 <channels>
 <channel>
 <name>Filmes</name>
-<thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/W5TdXCs/Filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/AnoDosFilmes</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
 <info>O Melhor Conteudo de Filmes</info>
@@ -22,7 +22,7 @@
 <channels>
 <channel>
 <name>Series</name>
-<thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/cFvP8Sh/Series.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Series/SeriesEmOrdemAlfabetica</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
 <info>O Melhor Conteudo de Series</info>
@@ -31,7 +31,7 @@
 <channels>
 <channel>
 <name>Desenhos</name>
-<thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/RyzJ5Nf/Desenhos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Desenhos/DesenhosEmOrdemAlfabetica</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
 <info>O Melhor Conteudo de Desenhos</info>
@@ -40,7 +40,7 @@
 <channels>
 <channel>
 <name>Animes</name>
-<thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/FspP927/Animes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Animes/AnimesEmOrdemAlfabetica</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
 <info>O Melhor Conteudo de Animes</info>
@@ -49,7 +49,7 @@
 <channels>
 <channel>
 <name>Doramas</name>
-<thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/zZfLSMs/Doramas.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
 <info>O Melhor Conteudo de Doramas</info>
