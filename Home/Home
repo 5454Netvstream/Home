@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>NOVOS</name>
+<name>Novos</name>
 <thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/AdicionadosRecentes/Novos</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
@@ -12,7 +12,7 @@
 
 <channels>
 <channel>
-<name>FILMES</name>
+<name>Filmes</name>
 <thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Filmes/AnoDosFilmes</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
@@ -21,7 +21,7 @@
 
 <channels>
 <channel>
-<name>Séries</name>
+<name>Series</name>
 <thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Series/SeriesEmOrdemAlfabetica</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>DESENHOS</name>
+<name>Desenhos</name>
 <thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Desenhos/DesenhosEmOrdemAlfabetica</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
@@ -39,7 +39,7 @@
 
 <channels>
 <channel>
-<name>ANIMES</name>
+<name>Animes</name>
 <thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Animes/AnimesEmOrdemAlfabetica</externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>DORAMAS</name>
+<name>Doramas</name>
 <thumbnail>https://i.ibb.co/Vm2DcXy/MENU-DE-FILMES-CAPA.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://i.ibb.co/C9rMBF0/MENU-DE-FILMES-BG.jpg</fanart>
