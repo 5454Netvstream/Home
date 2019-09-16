@@ -1,1 +1,26 @@
+<item>
+<title>720P - HD</title>
+<link>https://22</link>
+<thumbnail></thumbnail>
+<fanart>https://i.ibb.co/VTdh5Gd/The-Vampire-Diaries-BG.jpg</fanart>
+<info>HD - Qualidade Boa
+</info>
+</item>
 
+<item>
+<title>480P - SD</title>
+<link>https://18</link>
+<thumbnail></thumbnail>
+<fanart>https://i.ibb.co/VTdh5Gd/The-Vampire-Diaries-BG.jpg</fanart>
+<info>SD - Qualidade Media
+</info>
+</item>
+
+<item>
+<title>240P - SD</title>
+<link>https://36</link>
+<thumbnail></thumbnail>
+<fanart>https://i.ibb.co/VTdh5Gd/The-Vampire-Diaries-BG.jpg</fanart>
+<info>SD - Qualidade Baixa
+</info>
+</item>
