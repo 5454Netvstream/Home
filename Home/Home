@@ -1,14 +1,6 @@
 <layouttype>thumbnail</layouttype>
 
 
-<item>
-<title>1080p - Full HD</title>
-<link>https://raw.githubusercontent.com/5454Netvstream/NetvStream/master/Home/Legendas/Filmes/2019/Homenaranha</link>
-<thumbnail>https://i.ibb.co/SBLxDDn/Full-HD-1080p.jpg</thumbnail>
-<fanart>ttps://i.ibb.co/dGynRHh/fanart.jpg</fanart>
-<info>Full HD Qualidade Otima</info>
-</item>
-
 <channels>
 <channel>
 <name>Novos</name>
